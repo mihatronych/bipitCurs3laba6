@@ -1,0 +1,10 @@
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\bin\Debug\Client.exe.config
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\bin\Debug\Client.exe
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\bin\Debug\Client.pdb
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\obj\Debug\WindowsClient.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\obj\Debug\Client.Form1.resources
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\obj\Debug\WindowsClient.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\obj\Debug\WindowsClient.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\obj\Debug\Client.exe
+C:\Users\Пользователь\Desktop\BIPIT\curs3laba5\bipitCurs3Laba5\Client\obj\Debug\Client.pdb
